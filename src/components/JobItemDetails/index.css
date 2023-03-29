@@ -1,0 +1,129 @@
+.product-card-container {
+  background-color: #202020;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.company-logo-and-employment-type {
+  display: flex;
+  align-items: center;
+}
+.company-logo {
+  height: 80px;
+  width: 80px;
+}
+.title-and-rating {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.some-details {
+  display: flex;
+  justify-content: space-between;
+}
+.location-and-employment {
+  display: flex;
+  align-items: center;
+}
+.location-container {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+.employment-type {
+  display: flex;
+  align-items: center;
+}
+.job-title {
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+}
+.rating {
+  color: white;
+  margin-left: 5px;
+}
+.location {
+  color: white;
+  margin-left: 5px;
+}
+.employment-type {
+  color: white;
+}
+.package {
+  color: white;
+}
+.star-rating {
+  display: flex;
+  align-items: center;
+}
+.description {
+  color: white;
+  font-size: 16px;
+}
+.list-item {
+  list-style: none;
+}
+.description-and-website-url {
+  display: flex;
+  justify-content: space-between;
+}
+.description-heading {
+  color: white;
+}
+.website-link {
+  color: #4f46e5;
+  font-size: 20px;
+}
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+
+  justify-content: center;
+  max-width: 600px;
+  padding-left: 0;
+}
+.skills-heading {
+  color: white;
+}
+.skill-img {
+  height: 60px;
+  width: 60px;
+}
+.skill-name {
+  color: white;
+  margin-left: 10px;
+  font-size: 18px;
+  font-size: 600;
+}
+.life-at-company-container {
+  display: flex;
+  align-items: center;
+}
+.life-at-company-description {
+  color: white;
+}
+.life-at-company-heading {
+  color: white;
+}
+.life-at-company {
+  height: 60px;
+  width: 60px;
+}
+.skill {
+  display: flex;
+  margin: 30px;
+  align-items: center;
+}
+.job-details {
+  padding: 40px;
+  background-color: black;
+}
+.similar-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 900px;
+  padding-left: 0;
+}

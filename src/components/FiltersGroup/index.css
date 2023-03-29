@@ -1,0 +1,13 @@
+.label {
+  color: white;
+}
+.list-item {
+  list-style: none;
+  margin-bottom: 10px;
+}
+.filter-group-container {
+  max-width: 800px;
+}
+.color {
+  color: white;
+}

@@ -1,0 +1,47 @@
+.jobs-list-view {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 10px;
+  background-color: black;
+  min-height: 100vh;
+}
+
+.search-input-container {
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  border-radius: 8px;
+  padding-left: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+}
+
+.search-input {
+  padding-left: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+  background-color: black;
+  color: white;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  border: 1px solid white;
+  outline: none;
+  flex-grow: 1;
+}
+
+.search-icon {
+  color: #475569;
+  width: 20px;
+  height: 20px;
+  background-color: transparent;
+}
+.search-and-jobs-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
